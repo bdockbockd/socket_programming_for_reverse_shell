@@ -9,10 +9,10 @@
  1. clone this repo `git clone https://github.com/beesk135/socket_programming_for_reverse_shell.git` and then cd into foldder 
  2. Running server waiting for victim by `python3 server.py` (you may have to run `sudo python3 server.py`)
     - IP and PORT is set up by default (you can change it later)
-    ![Image description](https://drive.google.com/open?id=1D1YNR3QTiLOpXz6855C_nEYAD-ckC9ur)
+	![alt text](https://raw.githubusercontent.com/beesk135/socket_programming_for_reverse_shell/master/img/server1.png)
  3. Running client which automatically set up to connect default internal ip and port 
     `python3 client.py`
-    ![Image description]()
+	![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
  4. If things work out fine, your server terminal would be shown like image below (ready to shell reverse to client)
  5. Yeah, finally you have come through steps, you can finally start shell any shell `command` to do anything you want
  
