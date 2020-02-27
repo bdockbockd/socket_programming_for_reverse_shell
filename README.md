@@ -5,7 +5,10 @@
 ## Requirements : 
   - Python3
   - socket basis concept
-## Methods
+## Instructions
+ 1.`git clone <-this-repo->`
+ 2.`cd `
+ 3.
     
   
 	
